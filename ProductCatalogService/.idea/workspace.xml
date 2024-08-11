@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4bb56b0-1ffb-43da-b497-a8cc14fbf138" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/clients/FakestoreClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/clients/IClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/configuration/RedisConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/configuration/RestTemplateConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/controllers/ControllerAdvisor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/controllers/ProductController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/controllers/ProductSearchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/ProductFakestoreRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/ProductFakestoreResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/ProductRequestDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/ProductResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/RatingFakestoreResponseDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/SearchProductDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/SortDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/dtos/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/enums/EntityState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/enums/SortType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/exceptions/InvalidProductBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/exceptions/InvalidProductID.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/exceptions/InvalidSearchQuery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/exceptions/NoProductFound.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/models/BaseModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/models/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/models/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/repositories/ProductRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/IProductSearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/IProductService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/ProductSearchService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/ProductServiceFromFakeStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/ProductStorageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogueService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/ststore/productCatalogService/EstoreApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hJX6GhQB3DD9UzeRZUkRwKUksy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EstoreApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EstoreApplication.executor": "Run",
+    "Spring Boot.eStoreProductCatalogueService.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SpringBoot Project/eCommerce/Estore/ProductCatalogService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ststore.estoreProductCatalog.ProductCatalogService.service" />
+      <recent name="com.ststore.estore.ProductCategory.clients" />
+      <recent name="com.ststore.estore.ProductCategory.service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ststore.estoreProductCatalog.ProductCatalogService.dtos" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ProductCatalogueService">
+    <configuration name="ProductCatalogueService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ststore.productCatalogService.ProductCatalogueService" />
+      <module name="ProductCatalogService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ststore.productCatalogService.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductCatalogueService" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ProductCatalogService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ststore.productCatalogService.ProductCatalogueService" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4bb56b0-1ffb-43da-b497-a8cc14fbf138" name="Changes" comment="" />
+      <created>1717312979817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717312979817</updated>
+      <workItem from="1717312982092" duration="133000" />
+      <workItem from="1717313131498" duration="6798000" />
+      <workItem from="1717325780341" duration="9048000" />
+      <workItem from="1717602624811" duration="7129000" />
+      <workItem from="1717612096970" duration="1616000" />
+      <workItem from="1718034490440" duration="1664000" />
+      <workItem from="1720254119137" duration="3014000" />
+      <workItem from="1720628006085" duration="806000" />
+      <workItem from="1720629363620" duration="289000" />
+      <workItem from="1720629829316" duration="4339000" />
+      <workItem from="1721234626046" duration="4659000" />
+      <workItem from="1721546104122" duration="1106000" />
+      <workItem from="1721548602129" duration="2026000" />
+      <workItem from="1721552796106" duration="653000" />
+      <workItem from="1721740864242" duration="627000" />
+      <workItem from="1721741577229" duration="104000" />
+      <workItem from="1721741869443" duration="357000" />
+      <workItem from="1721742245628" duration="122000" />
+      <workItem from="1721927999505" duration="113000" />
+      <workItem from="1722533569487" duration="2420000" />
+      <workItem from="1723361126401" duration="1450000" />
+      <workItem from="1723363984195" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/service/ProductServiceFromFakeStore.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/controllers/ProductController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/controllers/ProductController.java</url>
+          <line>28</line>
+          <properties class="com.ststore.productCatalogService.ProductCatalogService.controllers.ProductController">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/productCatalogService/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>52</line>
+          <properties class="com.ststore.productCatalogService.ProductCatalogService.clients.FakestoreClient">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

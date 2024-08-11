@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4bb56b0-1ffb-43da-b497-a8cc14fbf138" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2hJX6GhQB3DD9UzeRZUkRwKUksy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.EstoreApplication.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.EstoreApplication.executor": "Run",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/SpringBoot Project/eCommerce/Estore/ProductCatalogService",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.ststore.estoreProductCatalog.ProductCatalogService.service" />
+      <recent name="com.ststore.estore.ProductCategory.clients" />
+      <recent name="com.ststore.estore.ProductCategory.service" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.EstoreApplication">
+    <configuration name="EstoreApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ststore.estoreProductCatalog.EstoreApplication" />
+      <module name="ProductCatalogService" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ststore.estoreProductCatalog.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EstoreApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ProductCatalogService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ststore.estoreProductCatalog.EstoreApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EstoreApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17011.79" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17011.79" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4bb56b0-1ffb-43da-b497-a8cc14fbf138" name="Changes" comment="" />
+      <created>1717312979817</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1717312979817</updated>
+      <workItem from="1717312982092" duration="133000" />
+      <workItem from="1717313131498" duration="6798000" />
+      <workItem from="1717325780341" duration="9048000" />
+      <workItem from="1717602624811" duration="7129000" />
+      <workItem from="1717612096970" duration="1616000" />
+      <workItem from="1718034490440" duration="1664000" />
+      <workItem from="1720254119137" duration="3014000" />
+      <workItem from="1720628006085" duration="806000" />
+      <workItem from="1720629363620" duration="289000" />
+      <workItem from="1720629829316" duration="4339000" />
+      <workItem from="1721234626046" duration="4659000" />
+      <workItem from="1721546104122" duration="1106000" />
+      <workItem from="1721548602129" duration="2026000" />
+      <workItem from="1721552796106" duration="653000" />
+      <workItem from="1721740864242" duration="627000" />
+      <workItem from="1721741577229" duration="104000" />
+      <workItem from="1721741729700" duration="74000" />
+      <workItem from="1721741820733" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/service/ProductServiceFromFakeStore.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/controllers/ProductController.java</url>
+          <line>75</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/controllers/ProductController.java</url>
+          <line>28</line>
+          <properties class="com.ststore.estoreProductCatalog.ProductCatalogService.controllers.ProductController">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ststore/estoreProductCatalog/ProductCatalogService/clients/FakestoreClient.java</url>
+          <line>52</line>
+          <properties class="com.ststore.estoreProductCatalog.ProductCatalogService.clients.FakestoreClient" method="deleteProduct">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
